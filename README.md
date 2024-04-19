@@ -1,8 +1,10 @@
-Bike-Sharing-Demand-Prediction
+# Bike-Sharing-Demand-Prediction
+
 This repository contains an analysis project focused on the Seoul Bike Demand Prediction dataset. The project aims to analyze and predict bike demand in Seoul based on various factors such as weather conditions, date, time, and other relevant features.
 
-Dataset
+# Dataset
 The dataset used in this project consists of information related to bike rentals in Seoul, including factors that influence demand. The dataset contains various features such as:
+
 
 Date: Date of the bike demand observation (date)
 
@@ -32,8 +34,9 @@ Holiday: Whether it is a holiday or not (binary: 1 if holiday, 0 if not)
 
 Functioning Day: Whether it is a functioning day or not (binary: 1 if functioning day, 0 if not)
 
-Project Goals
+# Project Goals
 The main objectives of this project are as follows:
+
 
 Perform exploratory data analysis to understand the patterns and trends in the Seoul bike demand dataset.
 
@@ -47,4 +50,4 @@ Evaluate the performance of the prediction models using appropriate metrics.
 
 Visualize the patterns and trends in the dataset using charts and graphs.
 
-Provide insights and recommendations based on the analysis for bike rental service providers.# Final_ML_Project
+Provide insights and recommendations based on the analysis for bike rental service providers.
